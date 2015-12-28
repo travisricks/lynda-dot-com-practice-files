@@ -1,0 +1,21 @@
+header {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: #d3d3d3;
+  border: 1px solid #3a3a3a;
+  color: #535353;
+}
+h1 {
+  color: #2244aa;
+}
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+body p#mypara {
+  font-family: Courier New;
+}
+a {
+  color: blue;
+}
+a:hover {
+  color: green;
+}
